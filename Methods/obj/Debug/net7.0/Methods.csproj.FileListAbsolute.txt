@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/Methods/bin/Debug/net7.0/Methods
+/Users/naznehiralicavus/Projects/ODEV3/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/Methods/bin/Debug/net7.0/Methods.dll
+/Users/naznehiralicavus/Projects/ODEV3/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.dll
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/Methods/obj/Debug/net7.0/ref/Methods.dll
