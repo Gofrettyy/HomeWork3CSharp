@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.dll
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.dll
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/refint/Koleksiyonlar.dll
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/Koleksiyonlar/obj/Debug/net7.0/ref/Koleksiyonlar.dll

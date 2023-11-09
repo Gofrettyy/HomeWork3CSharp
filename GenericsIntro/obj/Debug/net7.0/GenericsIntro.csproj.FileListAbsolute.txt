@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/bin/Debug/net7.0/GenericsIntro
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/bin/Debug/net7.0/GenericsIntro.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/bin/Debug/net7.0/GenericsIntro.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/bin/Debug/net7.0/GenericsIntro.dll
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/bin/Debug/net7.0/GenericsIntro.pdb
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.dll
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/refint/GenericsIntro.dll
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.pdb
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/GenericsIntro.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/GenericsIntro/obj/Debug/net7.0/ref/GenericsIntro.dll

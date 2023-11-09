@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/bin/Debug/net7.0/Matematik
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/bin/Debug/net7.0/Matematik.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/bin/Debug/net7.0/Matematik.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/bin/Debug/net7.0/Matematik.dll
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/bin/Debug/net7.0/Matematik.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.dll
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/refint/Matematik.dll
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.pdb
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/Matematik.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/Matematik/obj/Debug/net7.0/ref/Matematik.dll
