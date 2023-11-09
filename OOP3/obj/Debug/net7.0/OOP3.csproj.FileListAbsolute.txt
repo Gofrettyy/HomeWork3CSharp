@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/bin/Debug/net7.0/OOP3
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/bin/Debug/net7.0/OOP3.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/bin/Debug/net7.0/OOP3.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/bin/Debug/net7.0/OOP3.dll
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/bin/Debug/net7.0/OOP3.pdb
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.dll
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/refint/OOP3.dll
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.pdb
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/OOP3.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/OOP3/obj/Debug/net7.0/ref/OOP3.dll
