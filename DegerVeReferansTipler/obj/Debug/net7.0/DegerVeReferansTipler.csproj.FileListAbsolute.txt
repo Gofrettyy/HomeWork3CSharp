@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.deps.json
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.runtimeconfig.json
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/refint/DegerVeReferansTipler.dll
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.genruntimeconfig.cache
+/Users/naznehiralicavus/Projects/ODEV3/DegerVeReferansTipler/obj/Debug/net7.0/ref/DegerVeReferansTipler.dll
